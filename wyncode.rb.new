@@ -1,0 +1,15 @@
+#this question is from the first section and is the seco
+puts "Let’s start with an easy one. Write the expression 1+1 in two different, but equivalent ways."
+
+puts "Answer :"
+
+puts "1.+(1)" #this answer is in standard ruby  syntax
+
+# Ruby Data Types: BigNum
+puts "When a Fixnum grows too large, it becomes a Bignum. What's the largest Fixnum?"
+
+puts "Answer:"
+
+puts "4611686018427387904" #This is 2**62 -1 which was found in google
+
+ 
